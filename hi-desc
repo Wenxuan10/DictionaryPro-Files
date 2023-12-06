@@ -1,0 +1,62 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:खोजें;
+ORG;CHARSET=utf-8:अपने कीबोर्ड का उपयोग करके खोजें;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:फोटो;
+ORG;CHARSET=utf-8:फोटो से टेक्स्ट का उपयोग करके खोजें;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:श्रुतलेख के साथ खोजें;
+ORG;CHARSET=utf-8:अपने माइक्रोफ़ोन से पहचाने गए टेक्स्ट का उपयोग करके खोजें;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:शब्दों की तुलना करें;
+ORG;CHARSET=utf-8:8 शब्दों तक तुलना करें;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:आज का शब्द;
+ORG;CHARSET=utf-8:मरियम-वेबस्टर डिक्शनरी द्वारा प्रदान किया गया;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:अधिक विकल्प;
+ORG;CHARSET=utf-8:चुनने के लिए और अधिक विकल्प;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:अपडेट की जाँच करें;
+ORG;CHARSET=utf-8:जाँचें कि आपका सॉफ़्टवेयर अद्यतित है;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:कोई इंटरनेट कनेक्शन नहीं;
+ORG;CHARSET=utf-8:आपका उपकरण इंटरनेट से कनेक्ट नहीं है;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:सेटिंग्स;
+ORG;CHARSET=utf-8:अपनी प्राथमिकताएँ संपादित करें;;;;
+PHOTO;ENCODING=b:
+END:VCARD
