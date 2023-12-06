@@ -1,0 +1,62 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Rechercher;
+ORG;CHARSET=utf-8:Recherche à l'aide de votre clavier;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:photo;
+ORG;CHARSET=utf-8:Rechercher en utilisant le texte d'une photo;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Recherche avec dictée;
+ORG;CHARSET=utf-8:Rechercher en utilisant le texte reconnu par votre microphone;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Comparer des mots;
+ORG;CHARSET=utf-8:Comparer jusqu'à 8 mots;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Le mot du jour;
+ORG;CHARSET=utf-8:Fourni par le dictionnaire Merriam-Webster;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Plus d'options;
+ORG;CHARSET=utf-8:Plus d'options parmi lesquelles choisir;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Vérifier les mises à jour;
+ORG;CHARSET=utf-8:Vérifiez que votre logiciel est à jour;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Pas de connexion Internet;
+ORG;CHARSET=utf-8:Votre appareil n'est pas connecté à Internet;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Paramètres;
+ORG;CHARSET=utf-8:Modifiez vos préférences;;;;
+PHOTO;ENCODING=b:
+END:VCARD
