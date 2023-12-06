@@ -1,0 +1,63 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Buscar;
+ORG;CHARSET=utf-8:Busca usando tu teclado;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Foto;
+ORG;CHARSET=utf-8:Buscar usando texto de una foto;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Buscar con dictado;
+ORG;CHARSET=utf-8:Buscar usando texto reconocido por tu micrófono;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Comparar palabras;
+ORG;CHARSET=utf-8:Compara hasta 8 palabras;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Palabra del día;
+ORG;CHARSET=utf-8:Proporcionado por el Diccionario Merriam-Webster;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Más opciones;
+ORG;CHARSET=utf-8:Más opciones para elegir;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Buscar actualizaciones;
+ORG;CHARSET=utf-8:Comprueba que tu software esté actualizado;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Sin conexión a Internet;
+ORG;CHARSET=utf-8:Tu dispositivo no está conectado a Internet;;;;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Configuración;
+ORG;CHARSET=utf-8:Edita tus preferencias;;;;
+PHOTO;ENCODING=b:
+END:VCARD
