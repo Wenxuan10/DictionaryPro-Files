@@ -49,8 +49,8 @@ END:VCARD
 
 BEGIN:VCARD
 VERSION:3.0
-N;CHARSET=utf-8:Pas de connexion Internet;
-ORG;CHARSET=utf-8:Votre appareil n'est pas connecté à Internet;;;;
+N;CHARSET=utf-8:Vérifier les mises à jour;
+ORG;CHARSET=utf-8:Vérifiez que votre logiciel est à jour;;;;
 PHOTO;ENCODING=b:
 END:VCARD
 
