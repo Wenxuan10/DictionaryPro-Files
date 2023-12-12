@@ -49,8 +49,8 @@ END:VCARD
 
 BEGIN:VCARD
 VERSION:3.0
-N;CHARSET=utf-8:没有互联网连接;
-ORG;CHARSET=utf-8:您的设备未连接到互联网;;;;
+N;CHARSET=utf-8:检查更新;
+ORG;CHARSET=utf-8:检查您的软件是否是最新的;;;;
 PHOTO;ENCODING=b:
 END:VCARD
 
