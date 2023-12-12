@@ -49,8 +49,8 @@ END:VCARD
 
 BEGIN:VCARD
 VERSION:3.0
-N;CHARSET=utf-8:कोई इंटरनेट कनेक्शन नहीं;
-ORG;CHARSET=utf-8:आपका उपकरण इंटरनेट से कनेक्ट नहीं है;;;;
+N;CHARSET=utf-8:अद्यतन के लिए जाँच;
+ORG;CHARSET=utf-8:जांचें कि आपका सॉफ़्टवेयर अद्यतित है;;;;
 PHOTO;ENCODING=b:
 END:VCARD
 
