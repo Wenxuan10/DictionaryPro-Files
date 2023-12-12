@@ -1,0 +1,55 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Search;;;;
+ORG;CHARSET=utf-8:Search using your keyboard;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Photo;;;;
+ORG;CHARSET=utf-8:Search by using text from a photo, extremely useful if you have many words to search;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Search using dictation;;;;
+ORG;CHARSET=utf-8:Search by using text recognised from your microphone;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Compare words;;;;
+ORG;CHARSET=utf-8:Compare up to 8 words;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Word of the day;;;;
+ORG;CHARSET=utf-8:provided by the Merriam-Webster Dictionary;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:More options;;;;
+ORG;CHARSET=utf-8:More options to choose from;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Check for updates;;;;
+ORG;CHARSET=utf-8:Check if your software is up to date;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Settings;;;;
+ORG;CHARSET=utf-8:Edit your preferences ;
+PHOTO;ENCODING=b:
+END:VCARD
