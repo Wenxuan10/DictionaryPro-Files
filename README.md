@@ -1,6 +1,6 @@
 # DictionaryPro Language Files
 
-This is where I store my DictionaryPro files
+This is where I store my DictionaryPro files, including Icons and Vcard Formats.
 
 ## Contributing
 
