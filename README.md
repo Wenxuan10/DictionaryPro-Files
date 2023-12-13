@@ -1,6 +1,6 @@
 # DictionaryPro Language Files
 
-This is where I store my DictionaryPro files in vcard
+This is where I store my DictionaryPro files
 
 ## Contributing
 
