@@ -49,13 +49,6 @@ END:VCARD
 
 BEGIN:VCARD
 VERSION:3.0
-N;CHARSET=utf-8:अद्यतन के लिए जाँच;
-ORG;CHARSET=utf-8:जांचें कि आपका सॉफ़्टवेयर अद्यतित है;;;;
-PHOTO;ENCODING=b:
-END:VCARD
-
-BEGIN:VCARD
-VERSION:3.0
 N;CHARSET=utf-8:सेटिंग्स;
 ORG;CHARSET=utf-8:अपनी प्राथमिकताएँ संपादित करें;;;;
 PHOTO;ENCODING=b:
