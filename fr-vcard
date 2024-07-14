@@ -49,13 +49,6 @@ END:VCARD
 
 BEGIN:VCARD
 VERSION:3.0
-N;CHARSET=utf-8:Vérifier les mises à jour;
-ORG;CHARSET=utf-8:Vérifiez que votre logiciel est à jour;;;;
-PHOTO;ENCODING=b:
-END:VCARD
-
-BEGIN:VCARD
-VERSION:3.0
 N;CHARSET=utf-8:Paramètres;
 ORG;CHARSET=utf-8:Modifiez vos préférences;;;;
 PHOTO;ENCODING=b:
